@@ -7,7 +7,7 @@ on:
 
 env:
   INSTANCE: 'Writerside/ascension'
-  ARTIFACT: 'webAscensionASCENSION2-all.zip'
+  ARTIFACT: 'webHelpASCENSION2-all.zip'
   DOCKER_VERSION: '241.15989'
 
 jobs:

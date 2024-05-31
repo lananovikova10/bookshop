@@ -11,4 +11,4 @@ In the docs directory is where I start with GFM so any one of the docs can rende
 Then I pull the document into the Writerside project where I can add semantic markup and styling that will render
 nicer looking documents in HTML form with a nice table of contents. 
 
-The pretty docs are located at [isimmons.github.io](https://isimmons.github.io/)
+The pretty docs are located at [Ascension](https://isimmons.github.io/ascension/home.html)

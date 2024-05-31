@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ascension"
+                 name="Ascension"
+                 start-page="ascension.md">
+
+    <toc-element topic="ascension.md">
+        <toc-element topic="epic-web.md">
+            <toc-element topic="epic-web-tutorials.md"/>
+            <toc-element topic="epic-web-workshops.md"/>
+        </toc-element>
+        <toc-element topic="total-typescript.md">
+            <toc-element topic="total-typescript-tutorials.md"/>
+            <toc-element topic="total-typescript-workshops.md"/>
+        </toc-element>
+        <toc-element topic="ides.md">
+            <toc-element topic="jetbrains-writerside.md"/>
+        </toc-element>
+        <toc-element topic="typescript.md">
+            <toc-element topic="as-const-is-great.md"/>
+        </toc-element>
+        <toc-element topic="javascript.md">
+            <toc-element topic="tabs-vs-spaces.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="100-days-of-code.md"/>
+</instance-profile>

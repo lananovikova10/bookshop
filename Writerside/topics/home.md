@@ -1,9 +1,10 @@
-# Ascension
+# Bookshop
 
 > **Ascension:**
 >
 > "The Action of Climbing or Moving Upward"
 
+![](SamplePNGImage_1mbmb.png) {thumbnail="true"}
 
 Learning is an uphill climb.
 
@@ -39,10 +40,6 @@ Planning and implementing focus sessions will help me break away from that bad h
 myself out.
 
 I'm still working out exactly how I want to implement focus sessions and will add more information.
-
-## 100DaysOfCode
-
-See [100DaysOfCode](100-days-of-code.md)
 
 There are many more things I want to learn besides coding, but I will start with coding first.
 

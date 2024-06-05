@@ -6,4 +6,8 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="5d6cbb53">
+        <description>Created after removal of "100 Days of Code" from Bookshop</description>
+        <accepts>100-days-of-code.html</accepts>
+    </rule>
 </rules>

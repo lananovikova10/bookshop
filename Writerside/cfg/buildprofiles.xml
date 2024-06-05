@@ -6,13 +6,18 @@
         <color-preset>soft</color-preset>
         <primary-color>emerald</primary-color>
         <custom-favicons>red-panda.svg</custom-favicons>
-        <header-logo>red-panda.svg</header-logo>
-        <product-web-url>https://isimmons.github.io/ascension/home.html</product-web-url>
+        <header-logo>bs.png</header-logo>
+<!--        <product-web-url>https://isimmons.github.io/ascension/home.html</product-web-url>-->
         <download-title>X @me</download-title>
         <download-page>https://x.com/isimmons33</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="ascension">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="bs">
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
